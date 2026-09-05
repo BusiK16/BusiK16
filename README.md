@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-I am a Data Analyst student with BrightLearn who ennjoys transforming raw data into insights that can help answer real business questions and support better decision-making.
+I am a Data Analyst student with BrightLearn who enjoys transforming raw data into insights that can help answer real business questions and support better decision-making.
 
 My journey into Data Analytics has been a hands-on one with BrightLearn. I started building my SQL fundamentals and gradually moved into working with real datasets, analyzing business problems, creating dashboards, and learning how to communicate insights through data.
 

@@ -10,7 +10,8 @@ My journey into Data Analytics has been a hands-on one with BrightLearn. I start
 
 Along the way, I have worked with SQL, Excel, Power Bi and Databricks, and I a, now expanding my knowledge into Advanced Data Analytics and Machine Learning. 
 
-I believe that becoming a good data analyst is not only about knowing the tools - it is 
+I believe that becoming a good data analyst is not only about knowing the tools - it is about learning how to ask the right questions, investigate the data, and explain what the data is telling you.
+
 
 <!--
 **BusiK16/BusiK16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
